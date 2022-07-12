@@ -54,10 +54,6 @@ a {
   text-decoration: none;
 }
 
-.hero {
-  background-color: #000814;
-  color: white;
-}
 .hero nav {
   display: flex;
   justify-content: space-between;
